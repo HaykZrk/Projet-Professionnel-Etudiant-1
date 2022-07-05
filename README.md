@@ -1,4 +1,4 @@
-# PROJET PROFESSIONNEL DE L'ÉTUDIANT
+# PROJET PROFESSIONNEL DE L'ÉTUDIANT 1
 
 ## Description
 Projet dédié à l'UE Projet professionnel de l'étudiant 1 - Explorer en L1S2 Automne qui a pour objectif l'exploration 
