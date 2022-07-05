@@ -6,5 +6,5 @@ de tous les aspects (le métier en entreprise, les compétences requis, ...) d'u
 comprend un entretien avec un professionnel du métier en question.
 
 ## Auteurs
-Dossier individuel à chaque membre du groupe : Hayk ZARIKIAN\n
+Dossier individuel à chaque membre du groupe : Hayk ZARIKIAN 
 Support de groupe : Hayk ZARIKIAN, Ambre LIS et Solène WEIMAR
